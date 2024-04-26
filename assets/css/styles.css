@@ -6,8 +6,23 @@
     text-align: center;
 }
 
+div {
+    height: 100vh;
+}
+
+header {
+    border-bottom: 15px double black;
+    min-width: 350px;
+}
+
+footer {
+    border-top: 15px double black;
+    min-width: 350px;
+}
+
 figure img {
-    object-fit: cover;
+    max-width: 100%;
+    max-height: 100%;
     border-radius: 50%;
 }
 
@@ -64,10 +79,12 @@ section {
 
 .flex-item-left {
     flex: 50%;
+    min-width: 350px;
 }
 
 .flex-item-right {
     flex: 50%;
+    min-width: 350px;
 }
 
 
