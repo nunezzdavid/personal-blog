@@ -28,8 +28,8 @@ This assignment is a basic personal blog that is responsive using html, css and 
 
 ## Links
 
-- Deployed website: 
-- Deployed GitHub: 
+- Deployed website: https://nunezzdavid.github.io/personal-blog/
+- Deployed GitHub: https://github.com/nunezzdavid/personal-blog.git
 
 ## Tasks
 
@@ -44,7 +44,10 @@ This assignment is a basic personal blog that is responsive using html, css and 
 
 ## Credits
 
-- 
+- https://fonts.google.com/selection/embed
+- https://www.w3schools.com/html/html_forms.asp
+- https://developer.mozilla.org/en-US/docs/Learn/Forms
+- https://www.w3schools.com/css/css3_flexbox.asp
 
 ## License
 
